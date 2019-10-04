@@ -1,0 +1,649 @@
+archlinux% ~/GenEditId/shell/ngs/job_joinreads.sh
+Joining paired reads
+/home/freecloud/GEP00001/fastq
+SLX-13775.FLD0193.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 222954
+Total joined: 205698
+Average join len: 127.96
+Stdev join len: 8.62
+Version: 1.3.1
+SLX-13775.FLD0194.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 345758
+Total joined: 240783
+Average join len: 129.75
+Stdev join len: 3.15
+Version: 1.3.1
+SLX-13775.FLD0195.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 302132
+Total joined: 296373
+Average join len: 126.70
+Stdev join len: 9.31
+Version: 1.3.1
+SLX-13775.FLD0196.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 325048
+Total joined: 317753
+Average join len: 126.84
+Stdev join len: 10.13
+Version: 1.3.1
+SLX-13775.FLD0197.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 324820
+Total joined: 284041
+Average join len: 128.15
+Stdev join len: 7.10
+Version: 1.3.1
+SLX-13775.FLD0198.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 417257
+Total joined: 406275
+Average join len: 126.57
+Stdev join len: 9.56
+Version: 1.3.1
+SLX-13775.FLD0199.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 104372
+Total joined: 74248
+Average join len: 129.30
+Stdev join len: 4.34
+Version: 1.3.1
+SLX-13775.FLD0200.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 491936
+Total joined: 478848
+Average join len: 126.67
+Stdev join len: 9.18
+Version: 1.3.1
+SLX-13775.FLD0201.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 398867
+Total joined: 388354
+Average join len: 125.84
+Stdev join len: 10.61
+Version: 1.3.1
+SLX-13775.FLD0202.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 459941
+Total joined: 440630
+Average join len: 127.36
+Stdev join len: 8.76
+Version: 1.3.1
+SLX-13775.FLD0203.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 77966
+Total joined: 47912
+Average join len: 129.68
+Stdev join len: 4.00
+Version: 1.3.1
+SLX-13775.FLD0204.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 351397
+Total joined: 342487
+Average join len: 127.25
+Stdev join len: 9.06
+Version: 1.3.1
+SLX-13775.FLD0205.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 497838
+Total joined: 488039
+Average join len: 127.22
+Stdev join len: 8.97
+Version: 1.3.1
+SLX-13775.FLD0206.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 573535
+Total joined: 556261
+Average join len: 127.60
+Stdev join len: 6.79
+Version: 1.3.1
+SLX-13775.FLD0207.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 138408
+Total joined: 93193
+Average join len: 129.46
+Stdev join len: 4.64
+Version: 1.3.1
+SLX-13775.FLD0208.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 499941
+Total joined: 467474
+Average join len: 126.96
+Stdev join len: 8.91
+Version: 1.3.1
+SLX-13775.FLD0209.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 400329
+Total joined: 383401
+Average join len: 125.94
+Stdev join len: 11.08
+Version: 1.3.1
+SLX-13775.FLD0210.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 374985
+Total joined: 355685
+Average join len: 127.15
+Stdev join len: 9.23
+Version: 1.3.1
+SLX-13775.FLD0211.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 131390
+Total joined: 115988
+Average join len: 128.93
+Stdev join len: 5.89
+Version: 1.3.1
+SLX-13775.FLD0212.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 292954
+Total joined: 288344
+Average join len: 126.61
+Stdev join len: 9.47
+Version: 1.3.1
+SLX-13775.FLD0213.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 402153
+Total joined: 394329
+Average join len: 126.68
+Stdev join len: 9.41
+Version: 1.3.1
+SLX-13775.FLD0214.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 327878
+Total joined: 301538
+Average join len: 127.94
+Stdev join len: 7.22
+Version: 1.3.1
+SLX-13775.FLD0215.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 265356
+Total joined: 254361
+Average join len: 126.89
+Stdev join len: 8.55
+Version: 1.3.1
+SLX-13775.FLD0216.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 473126
+Total joined: 460284
+Average join len: 126.31
+Stdev join len: 9.24
+Version: 1.3.1
+SLX-13775.FLD0217.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 84976
+Total joined: 48379
+Average join len: 97.01
+Stdev join len: 1.74
+Version: 1.3.1
+SLX-13775.FLD0218.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 103030
+Total joined: 84523
+Average join len: 99.01
+Stdev join len: 1.38
+Version: 1.3.1
+SLX-13775.FLD0219.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 160421
+Total joined: 135082
+Average join len: 99.50
+Stdev join len: 1.29
+Version: 1.3.1
+SLX-13775.FLD0220.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 51490
+Total joined: 24705
+Average join len: 99.02
+Stdev join len: 2.11
+Version: 1.3.1
+SLX-13775.FLD0221.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 419063
+Total joined: 383332
+Average join len: 106.06
+Stdev join len: 6.01
+Version: 1.3.1
+SLX-13775.FLD0222.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 473888
+Total joined: 425637
+Average join len: 106.02
+Stdev join len: 6.42
+Version: 1.3.1
+SLX-13775.FLD0223.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 177244
+Total joined: 118522
+Average join len: 99.01
+Stdev join len: 1.32
+Version: 1.3.1
+SLX-13775.FLD0224.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 293701
+Total joined: 235720
+Average join len: 99.01
+Stdev join len: 1.19
+Version: 1.3.1
+SLX-13775.FLD0225.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 75021
+Total joined: 46011
+Average join len: 70.11
+Stdev join len: 2.40
+Version: 1.3.1
+SLX-13775.FLD0226.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 60148
+Total joined: 25029
+Average join len: 99.00
+Stdev join len: 2.59
+Version: 1.3.1
+SLX-13775.FLD0227.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 134012
+Total joined: 104711
+Average join len: 99.02
+Stdev join len: 1.19
+Version: 1.3.1
+SLX-13775.FLD0228.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 226942
+Total joined: 187513
+Average join len: 98.56
+Stdev join len: 1.81
+Version: 1.3.1
+SLX-13775.FLD0229.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 196289
+Total joined: 129687
+Average join len: 99.17
+Stdev join len: 2.08
+Version: 1.3.1
+SLX-13775.FLD0230.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 275857
+Total joined: 222179
+Average join len: 99.01
+Stdev join len: 1.46
+Version: 1.3.1
+SLX-13775.FLD0231.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 376570
+Total joined: 328444
+Average join len: 99.01
+Stdev join len: 1.14
+Version: 1.3.1
+SLX-13775.FLD0232.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 206595
+Total joined: 143903
+Average join len: 97.02
+Stdev join len: 1.37
+Version: 1.3.1
+SLX-13775.FLD0233.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 88059
+Total joined: 48815
+Average join len: 104.97
+Stdev join len: 6.79
+Version: 1.3.1
+SLX-13775.FLD0234.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 334730
+Total joined: 310392
+Average join len: 99.01
+Stdev join len: 1.24
+Version: 1.3.1
+SLX-13775.FLD0235.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 180298
+Total joined: 156207
+Average join len: 99.03
+Stdev join len: 1.27
+Version: 1.3.1
+SLX-13775.FLD0236.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 32332
+Total joined: 4864
+Average join len: 99.17
+Stdev join len: 3.56
+Version: 1.3.1
+SLX-13775.FLD0237.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 216717
+Total joined: 172620
+Average join len: 99.50
+Stdev join len: 2.06
+Version: 1.3.1
+SLX-13775.FLD0238.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 253011
+Total joined: 213869
+Average join len: 99.01
+Stdev join len: 1.23
+Version: 1.3.1
+SLX-13775.FLD0239.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 67999
+Total joined: 8921
+Average join len: 104.58
+Stdev join len: 8.55
+Version: 1.3.1
+SLX-13775.FLD0240.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 56350
+Total joined: 4024
+Average join len: 99.42
+Stdev join len: 8.05
+Version: 1.3.1
+SLX-13775.FLD0241.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 169174
+Total joined: 135913
+Average join len: 126.49
+Stdev join len: 5.77
+Version: 1.3.1
+SLX-13775.FLD0242.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 263191
+Total joined: 201169
+Average join len: 124.23
+Stdev join len: 4.21
+Version: 1.3.1
+SLX-13775.FLD0243.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 76463
+Total joined: 48504
+Average join len: 123.94
+Stdev join len: 4.87
+Version: 1.3.1
+SLX-13775.FLD0244.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 86499
+Total joined: 53410
+Average join len: 123.90
+Stdev join len: 4.57
+Version: 1.3.1
+SLX-13775.FLD0245.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 182550
+Total joined: 143901
+Average join len: 125.74
+Stdev join len: 4.78
+Version: 1.3.1
+SLX-13775.FLD0246.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 206675
+Total joined: 164718
+Average join len: 125.28
+Stdev join len: 4.62
+Version: 1.3.1
+SLX-13775.FLD0247.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 122556
+Total joined: 75375
+Average join len: 125.75
+Stdev join len: 5.94
+Version: 1.3.1
+SLX-13775.FLD0248.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 230859
+Total joined: 177394
+Average join len: 126.36
+Stdev join len: 6.60
+Version: 1.3.1
+SLX-13775.FLD0249.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 218871
+Total joined: 185633
+Average join len: 129.11
+Stdev join len: 9.26
+Version: 1.3.1
+SLX-13775.FLD0250.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 184594
+Total joined: 150038
+Average join len: 126.24
+Stdev join len: 5.92
+Version: 1.3.1
+SLX-13775.FLD0251.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 139759
+Total joined: 119655
+Average join len: 124.96
+Stdev join len: 4.36
+Version: 1.3.1
+SLX-13775.FLD0252.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 120570
+Total joined: 87954
+Average join len: 124.79
+Stdev join len: 4.70
+Version: 1.3.1
+SLX-13775.FLD0253.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 223840
+Total joined: 190395
+Average join len: 125.28
+Stdev join len: 4.56
+Version: 1.3.1
+SLX-13775.FLD0254.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 253107
+Total joined: 204482
+Average join len: 125.36
+Stdev join len: 4.80
+Version: 1.3.1
+SLX-13775.FLD0255.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 274143
+Total joined: 238248
+Average join len: 125.36
+Stdev join len: 4.51
+Version: 1.3.1
+SLX-13775.FLD0256.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 106814
+Total joined: 67363
+Average join len: 124.51
+Stdev join len: 4.40
+Version: 1.3.1
+SLX-13775.FLD0257.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 136033
+Total joined: 73895
+Average join len: 125.01
+Stdev join len: 4.97
+Version: 1.3.1
+SLX-13775.FLD0258.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 327121
+Total joined: 210710
+Average join len: 126.69
+Stdev join len: 7.84
+Version: 1.3.1
+SLX-13775.FLD0259.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 141142
+Total joined: 122146
+Average join len: 124.58
+Stdev join len: 4.03
+Version: 1.3.1
+SLX-13775.FLD0260.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 290684
+Total joined: 269638
+Average join len: 130.56
+Stdev join len: 9.99
+Version: 1.3.1
+SLX-13775.FLD0261.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 164324
+Total joined: 117715
+Average join len: 125.56
+Stdev join len: 4.52
+Version: 1.3.1
+SLX-13775.FLD0262.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 213520
+Total joined: 161316
+Average join len: 128.07
+Stdev join len: 6.68
+Version: 1.3.1
+SLX-13775.FLD0263.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 133044
+Total joined: 75729
+Average join len: 125.44
+Stdev join len: 4.46
+Version: 1.3.1
+SLX-13775.FLD0264.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 250698
+Total joined: 181995
+Average join len: 125.76
+Stdev join len: 4.55
+Version: 1.3.1
+SLX-13775.FLD0265.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 108216
+Total joined: 37406
+Average join len: 108.38
+Stdev join len: 5.72
+Version: 1.3.1
+SLX-13775.FLD0266.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 79233
+Total joined: 13969
+Average join len: 109.39
+Stdev join len: 6.29
+Version: 1.3.1
+SLX-13775.FLD0267.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 54322
+Total joined: 13860
+Average join len: 109.48
+Stdev join len: 5.73
+Version: 1.3.1
+SLX-13775.FLD0268.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 93582
+Total joined: 27827
+Average join len: 107.15
+Stdev join len: 7.35
+Version: 1.3.1
+SLX-13775.FLD0269.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 101733
+Total joined: 25736
+Average join len: 107.38
+Stdev join len: 7.37
+Version: 1.3.1
+SLX-13775.FLD0270.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 105062
+Total joined: 18891
+Average join len: 109.20
+Stdev join len: 7.14
+Version: 1.3.1
+SLX-13775.FLD0271.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 83028
+Total joined: 6569
+Average join len: 109.22
+Stdev join len: 8.32
+Version: 1.3.1
+SLX-13775.FLD0272.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 68696
+Total joined: 3939
+Average join len: 109.43
+Stdev join len: 9.85
+Version: 1.3.1
+SLX-13775.FLD0273.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 89366
+Total joined: 21048
+Average join len: 108.58
+Stdev join len: 5.48
+Version: 1.3.1
+SLX-13775.FLD0274.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 136721
+Total joined: 43467
+Average join len: 109.04
+Stdev join len: 5.24
+Version: 1.3.1
+SLX-13775.FLD0275.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 90654
+Total joined: 21354
+Average join len: 109.38
+Stdev join len: 5.82
+Version: 1.3.1
+SLX-13775.FLD0276.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 103687
+Total joined: 30777
+Average join len: 109.43
+Stdev join len: 5.31
+Version: 1.3.1
+SLX-13775.FLD0277.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 118428
+Total joined: 30658
+Average join len: 109.15
+Stdev join len: 5.66
+Version: 1.3.1
+SLX-13775.FLD0278.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 74892
+Total joined: 6577
+Average join len: 109.50
+Stdev join len: 7.48
+Version: 1.3.1
+SLX-13775.FLD0279.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 145655
+Total joined: 44894
+Average join len: 109.14
+Stdev join len: 4.77
+Version: 1.3.1
+SLX-13775.FLD0280.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 96583
+Total joined: 22454
+Average join len: 109.67
+Stdev join len: 4.23
+Version: 1.3.1
+SLX-13775.FLD0281.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 112093
+Total joined: 39760
+Average join len: 109.11
+Stdev join len: 4.68
+Version: 1.3.1
+SLX-13775.FLD0282.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 85530
+Total joined: 17435
+Average join len: 109.36
+Stdev join len: 5.67
+Version: 1.3.1
+SLX-13775.FLD0283.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 49910
+Total joined: 12646
+Average join len: 109.33
+Stdev join len: 5.22
+Version: 1.3.1
+SLX-13775.FLD0284.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 114125
+Total joined: 37453
+Average join len: 109.57
+Stdev join len: 5.02
+Version: 1.3.1
+SLX-13775.FLD0285.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 72304
+Total joined: 8934
+Average join len: 109.89
+Stdev join len: 7.22
+Version: 1.3.1
+SLX-13775.FLD0286.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 59170
+Total joined: 6661
+Average join len: 110.03
+Stdev join len: 8.12
+Version: 1.3.1
+SLX-13775.FLD0287.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 70210
+Total joined: 11400
+Average join len: 109.60
+Stdev join len: 5.15
+Version: 1.3.1
+SLX-13775.FLD0288.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 94303
+Total joined: 22819
+Average join len: 109.43
+Stdev join len: 5.51
+Version: 1.3.1
+SLX-13775.FLD0290.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 122263
+Total joined: 120407
+Average join len: 123.55
+Stdev join len: 5.16
+Version: 1.3.1
+SLX-13775.FLD0291.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 167591
+Total joined: 165412
+Average join len: 123.69
+Stdev join len: 6.32
+Version: 1.3.1
+SLX-13775.FLD0292.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 323256
+Total joined: 318561
+Average join len: 127.26
+Stdev join len: 8.46
+Version: 1.3.1
+SLX-13775.FLD0293.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 105178
+Total joined: 13499
+Average join len: 107.47
+Stdev join len: 6.60
+Version: 1.3.1
+SLX-13775.FLD0294.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 110320
+Total joined: 15689
+Average join len: 108.22
+Stdev join len: 5.37
+Version: 1.3.1
+SLX-13775.FLD0295.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 233034
+Total joined: 228093
+Average join len: 125.56
+Stdev join len: 9.06
+Version: 1.3.1
+SLX-13775.FLD0296.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 274341
+Total joined: 264155
+Average join len: 126.15
+Stdev join len: 6.66
+Version: 1.3.1
+SLX-13775.FLD0297.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 406444
+Total joined: 399837
+Average join len: 125.92
+Stdev join len: 8.44
+Version: 1.3.1
+SLX-13775.FLD0298.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 89356
+Total joined: 86065
+Average join len: 105.58
+Stdev join len: 6.50
+Version: 1.3.1
+SLX-13775.FLD0299.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 229571
+Total joined: 219143
+Average join len: 99.60
+Stdev join len: 1.74
+Version: 1.3.1
+SLX-13775.FLD0300.000000000-B4LYY.s_1.r_1.fq.gz
+Total reads: 178305
+Total joined: 110559
+Average join len: 121.84
+Stdev join len: 9.31
+Version: 1.3.1
+Job done
+archlinux% ~/GenEditId/shell/ngs/job_mergereads.sh fastq 
+Merging paired reads
+

@@ -1,0 +1,223 @@
+archlinux% ~/GenEditId/shell/ngs/job_mergereads.sh fastq 
+Merging paired reads
+/home/freecloud/GEP00001/fastq
+SLX-13775.FLD0193.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+^Z
+zsh: suspended  ~/GenEditId/shell/ngs/job_mergereads.sh fastq
+archlinux% fg
+[1]  + continued  ~/GenEditId/shell/ngs/job_mergereads.sh fastq
+SLX-13775.FLD0194.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0195.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0196.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0197.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0198.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0199.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0200.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0201.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0202.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0203.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0204.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0205.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0206.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0207.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0208.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0209.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0210.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0211.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0212.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0213.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0214.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0215.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0216.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0217.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0218.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0219.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0220.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0221.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0222.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0223.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0224.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0225.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0226.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0227.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0228.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0229.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0230.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0231.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0232.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0233.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0234.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0235.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0236.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0237.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0238.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0239.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0240.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0241.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0242.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0243.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0244.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0245.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0246.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0247.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0248.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0249.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0250.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0251.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0252.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0253.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0254.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0255.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0256.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0257.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0258.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0259.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0260.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0261.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0262.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0263.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0264.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0265.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0266.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0267.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0268.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0269.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0270.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0271.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0272.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0273.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0274.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0275.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0276.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0277.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0278.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0279.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0280.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0281.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0282.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0283.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0284.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0285.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0286.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0287.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0288.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0290.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0291.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0292.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0293.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0294.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0295.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0296.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0297.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0298.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0299.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+SLX-13775.FLD0300.000000000-B4LYY.s_1.r_2.fq.gz
+[WARN] flag -v (--validate-seq) is recommended to switch on for computing complement sequences
+Job done
+

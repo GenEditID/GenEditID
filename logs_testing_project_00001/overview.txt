@@ -1,0 +1,12 @@
+Steps 1-5 of the "detailed steps" instructions were carried out.
+Project data was as provided in the data/GEP00001 folder.
+Webapp was used to load GEP00001.xlsx, GEP00001_01-06.ICW and incu.txt
+
+fastq data was provided by GenEditIDFastQFiles-20190913T140803Z-001.zip and GenEditIDFastQFiles-20190913T140803Z-002.zip
+	the prejoined files were moved out to a seperate directory, and then joins and merges were performed.
+
+
+create_amplicount_config created a few off target results but otherwise was easy to edit to match the original shipped with project.
+
+run_amplicount produced totally different results.
+	amplicount.csv contains results for only 5 wells, 194, 242, 257, 258 and 300.
