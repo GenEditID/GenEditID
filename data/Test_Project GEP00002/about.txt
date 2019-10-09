@@ -1,0 +1,4 @@
+The files have mostly been stripped to leave a 96 well plate with 3 clones and 2 normalisations.
+The wells are in their original locations on the plate but will be reorganised once their results can be tested.
+
+Since the merge and join stages don't work on the unmerged google drive data, only premerged and joined fastq data is supplied.

@@ -1,0 +1,6 @@
+plate_id,well,cell_line_name,clone_name,guide_name,is_control,content_type,dna_source,sample_id,intensity_channel_700,intensity_channel_800,protein_abundance
+GEP00001_01,A1,MCF7,clone3,no-guide,True,normalisation,no-dna-source,no-barcode,12332.69140625,937.5444335938,0.076021072992929
+GEP00001_01,B5,MCF7,clone3,STAT3.3,False,sample,fixed cells,FLD0194,3271.0258789063,94.8216247559,0.028988344411266
+GEP00001_01,C6,MCF7,clone3,STAT3.3,False,sample,fixed cells,FLD0203,763.4702148438,81.3724975586,0.106582412747101
+GEP00001_01,C7,MCF7,clone3,STAT3.3,False,sample,fixed cells,FLD0204,11035.767578125,152.1985778809,0.01379139029555
+GEP00001_01,H12,MCF7,clone3,no-guide,True,normalisation,no-dna-source,no-barcode,10889.8955078125,805.6034545898,0.073977151939783
