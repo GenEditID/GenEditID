@@ -61,13 +61,21 @@ def get_amplicons(dbsession, geid):
         strand = '+'
         if amplicon_selection.guide_strand == 'reverse':
             strand = '-'
+        '''
         acoord = "chr{}\t{}\t{}\t{}\t{}".format(amplicon.chromosome,
                                                 amplicon.start,
                                                 amplicon.end,
                                                 strand,
                                                 "chr{}_{}".format(amplicon.chromosome, amplicon.start))
+        '''
+        acoord = "chr{}    {}  {}    {}    {}".format(amplicon.chromosome,
+                                                amplicon.start,
+                                                amplicon.end,
+                                                strand,
+                                                "chr{}_{}".format(amplicon.chromosome, amplicon.start))
 
-        tcoord = "chr{}\t{}\t{}\t{}\t{}".format(amplicon.chromosome,
+        #tcoord = "chr{}\t{}\t{}\t{}\t{}".format(amplicon.chromosome,
+        tcoord = "chr{}    {}  {}    {}  {}".format(amplicon.chromosome,
                                                 tstart,
                                                 tend,
                                                 strand,
@@ -113,20 +121,29 @@ def find_amplicon_sequence(refgenome, guide_loc, chr, strand, fprimer_seq, rprim
     if fprimer_loc > rprimer_loc:
         fprimer_loc, fprimer_seq, rprimer_loc, rprimer_seq = get_primer_pair(sequence, rprimer_seq, fprimer_seq)
 
-    amplicon_seq = sequence[fprimer_loc:(rprimer_loc + len(rprimer_seq))]
+    amplicon_seq = sequence[fprimer_loc:(rprimer_loc + len(rprimer_seq))] #make a slice where we found the guide sequences on the reference genome
     amplicon_start = int(start) + fprimer_loc + 1
     amplicon_end = int(start) + (rprimer_loc + len(rprimer_seq))
     amplicon_desc = "chr{}:{}:{}".format(chr, amplicon_start, amplicon_end)
+    '''
     acoord = "chr{}\t{}\t{}\t{}\t{}".format(chr,
                                             amplicon_start,
                                             amplicon_end,
                                             strand,
-                                            "chr{}_{}".format(chr, amplicon_start))
+                                            "chr{}_{}".format(chr, amplicon_start))	#there's a formatting bug, we need a space in between start and end.
+    '''
+    acoord = "chr{}    {}  {}    {}  {}".format(chr,
+                                            amplicon_start,
+                                            amplicon_end,
+                                            strand,
+                                            "chr{}_{}".format(chr, amplicon_start))	#the use of tabs was unreliable for human readable data.
+											#acoord is ultimately checked when seeing if the coord was different to submitted, and then only used in human output.
     genomic_acoord = "chr{}:{}-{}".format(chr, amplicon_start, amplicon_end)
 
     target_start = int(start) + (fprimer_loc + len(fprimer_seq)) + 1
     target_end = int(start) + rprimer_loc
-    tcoord = "chr{}\t{}\t{}\t{}\t{}".format(chr,
+    #tcoord = "chr{}\t{}\t{}\t{}\t{}".format(chr,
+    tcoord = "chr{}    {}  {}    {}  {}".format(chr,
                                             target_start,
                                             target_end,
                                             strand,
