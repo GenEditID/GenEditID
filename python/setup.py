@@ -31,7 +31,7 @@ install_requires = [
     'deform==2.0.15',
     'transaction==3.0.1',
     'zope.sqlalchemy==1.3',
-    'waitress==2.1.1',
+    'waitress==2.1.2',
     # amplicount and variantid analysis
     'pyfaidx==0.5.8',
     'biopython==1.78',
